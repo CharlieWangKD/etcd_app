@@ -1,0 +1,8 @@
+{
+  "work_dir": "/work/",
+  "leader_key": "/leader",
+  "register_dir": "/register/",
+  "etcd_cluster": [
+    "127.0.0.1:2379"
+  ]
+}
